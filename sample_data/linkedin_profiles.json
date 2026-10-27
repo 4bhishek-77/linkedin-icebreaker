@@ -1,0 +1,582 @@
+{
+  "satya_nadella": {
+    "public_identifier": "satyanadella",
+    "first_name": "Satya",
+    "last_name": "Nadella",
+    "full_name": "Satya Nadella",
+    "headline": "Chairman and CEO at Microsoft",
+    "summary": "Satya Nadella is Chairman and Chief Executive Officer of Microsoft. Before being named CEO in February 2014, Nadella held leadership roles in both enterprise and consumer businesses across the company. Joining Microsoft in 1992, he quickly became known for his energy, intellectual curiosity and drive to bring out the best in people. He has led major technical strategy shifts including the move to cloud computing and AI-first approaches.",
+    "city": "Bellevue",
+    "state": "Washington",
+    "country_full_name": "United States",
+    "occupation": "Chairman and CEO at Microsoft",
+    "experiences": [
+      {
+        "starts_at": {"day": 4, "month": 2, "year": 2014},
+        "ends_at": null,
+        "company": "Microsoft",
+        "title": "Chairman and Chief Executive Officer",
+        "description": "Leading Microsoft's transformation into a cloud-first, AI-first company. Under his leadership, Microsoft's market cap grew from $300B to over $3T. Championed the acquisition of LinkedIn, GitHub, and Activision Blizzard. Drove the strategic partnership with OpenAI.",
+        "location": "Redmond, Washington, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 1, "year": 2011},
+        "ends_at": {"day": 3, "month": 2, "year": 2014},
+        "company": "Microsoft",
+        "title": "Executive Vice President, Cloud and Enterprise",
+        "description": "Led the development of Microsoft Azure, growing it into one of the world's largest cloud platforms. Oversaw SQL Server, System Center, and Visual Studio.",
+        "location": "Redmond, Washington, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 1, "year": 2007},
+        "ends_at": {"day": 31, "month": 12, "year": 2010},
+        "company": "Microsoft",
+        "title": "Senior Vice President, Online Services Division",
+        "description": "Led Bing search engine development and Microsoft's online services strategy.",
+        "location": "Redmond, Washington, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 1, "year": 1992},
+        "ends_at": {"day": 31, "month": 12, "year": 2006},
+        "company": "Microsoft",
+        "title": "Various Engineering and Leadership Roles",
+        "description": "Progressed through engineering and management roles working on Windows, Office, and enterprise server products.",
+        "location": "Redmond, Washington, United States"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 1988},
+        "ends_at": {"day": 30, "month": 6, "year": 1990},
+        "field_of_study": "Computer Science",
+        "degree_name": "Master of Science in Computer Science",
+        "school": "University of Wisconsin-Milwaukee"
+      },
+      {
+        "starts_at": {"day": 1, "month": 7, "year": 1984},
+        "ends_at": {"day": 30, "month": 6, "year": 1988},
+        "field_of_study": "Electrical Engineering",
+        "degree_name": "Bachelor of Engineering",
+        "school": "Manipal Institute of Technology"
+      },
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 1996},
+        "ends_at": {"day": 30, "month": 6, "year": 1997},
+        "field_of_study": "Business Administration",
+        "degree_name": "Master of Business Administration",
+        "school": "University of Chicago Booth School of Business"
+      }
+    ],
+    "languages": ["English", "Hindi", "Telugu"],
+    "accomplishment_publications": [
+      {
+        "name": "Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone",
+        "publisher": "Harper Business",
+        "published_on": {"day": 26, "month": 9, "year": 2017},
+        "description": "A book about personal transformation, Microsoft's cultural shift, and the coming wave of intelligent technology."
+      }
+    ],
+    "skills": ["Cloud Computing", "Artificial Intelligence", "Leadership", "Strategy", "Enterprise Software", "Digital Transformation"],
+    "interests": ["Cricket", "Poetry", "Technology for Accessibility", "Growth Mindset"]
+  },
+  "jensen_huang": {
+    "public_identifier": "jenhsunhuang",
+    "first_name": "Jensen",
+    "last_name": "Huang",
+    "full_name": "Jensen Huang",
+    "headline": "Founder and CEO at NVIDIA",
+    "summary": "Jensen Huang co-founded NVIDIA in 1993 and has served since its inception as president, chief executive officer and a member of the board of directors. NVIDIA pioneered GPU-accelerated computing to tackle challenges that no one else can solve. NVIDIA's invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, and ignited the era of modern AI.",
+    "city": "Santa Clara",
+    "state": "California",
+    "country_full_name": "United States",
+    "occupation": "Founder, President & CEO at NVIDIA",
+    "experiences": [
+      {
+        "starts_at": {"day": 5, "month": 4, "year": 1993},
+        "ends_at": null,
+        "company": "NVIDIA",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/nvidia",
+        "title": "Founder, President and Chief Executive Officer",
+        "description": "Pioneered accelerated computing, transforming NVIDIA from a 3D graphics chip startup into the global leader in AI hardware, software platforms (CUDA), supercomputers, and autonomous machines. Built CUDA architecture in 2006, betting the company on parallel computing.",
+        "location": "Santa Clara, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 1, "year": 1989},
+        "ends_at": {"day": 31, "month": 3, "year": 1993},
+        "company": "LSI Logic",
+        "title": "Director, Coreware Business Unit",
+        "description": "Managed system-on-a-chip designs and microprocessors, coordinating silicon engineering teams.",
+        "location": "Milpitas, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 7, "year": 1984},
+        "ends_at": {"day": 31, "month": 12, "year": 1988},
+        "company": "Advanced Micro Devices (AMD)",
+        "title": "Microprocessor Designer",
+        "description": "Designed microprocessor silicon and computational logic units.",
+        "location": "Sunnyvale, California, United States"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 1990},
+        "ends_at": {"day": 30, "month": 6, "year": 1992},
+        "field_of_study": "Electrical Engineering",
+        "degree_name": "Master of Science in Electrical Engineering",
+        "school": "Stanford University",
+        "description": "Focused on computer architecture and parallel processing systems."
+      },
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 1980},
+        "ends_at": {"day": 30, "month": 6, "year": 1984},
+        "field_of_study": "Electrical Engineering",
+        "degree_name": "Bachelor of Science in Electrical Engineering",
+        "school": "Oregon State University",
+        "description": "Graduated in electrical engineering; met future wife and co-founder Lori Mills during lab work."
+      }
+    ],
+    "languages": ["English", "Mandarin", "Taiwanese Hokkien"],
+    "accomplishment_publications": [
+      {
+        "name": "Accelerating Modern Artificial Intelligence through Massively Parallel GPUs",
+        "publisher": "IEEE Micro & GTC Keynotes",
+        "published_on": {"day": 1, "month": 5, "year": 2018},
+        "description": "Comprehensive vision on combining deep learning frameworks with dedicated tensor processing units."
+      }
+    ],
+    "volunteer_work": [
+      {
+        "cause": "Science and Higher Education",
+        "company": "Stanford University & Oregon State University",
+        "title": "Philanthropist & Benefactor",
+        "description": "Endowed the Jen-Hsun Huang Engineering Center at Stanford University and the Huang Collaborative Innovation Complex at Oregon State University.",
+        "starts_at": {"day": 1, "month": 1, "year": 2008},
+        "ends_at": null
+      }
+    ],
+    "skills": ["GPU Computing", "CUDA", "Semiconductor Architecture", "Artificial Intelligence", "Deep Learning", "Executive Leadership", "Visionary Strategy"],
+    "interests": ["Table Tennis (Nationally ranked youth competitor)", "Leather Jackets", "Architecture & Campus Design", "First-Principles Thinking"]
+  },
+  "sam_altman": {
+    "public_identifier": "samaltman",
+    "first_name": "Sam",
+    "last_name": "Altman",
+    "full_name": "Sam Altman",
+    "headline": "CEO at OpenAI | Co-Founder Tools for Humanity | Former President Y Combinator",
+    "summary": "Entrepreneur, investor, and programmer. Currently CEO of OpenAI, developing safe and beneficial Artificial General Intelligence (AGI). Previously President of Y Combinator, funding thousands of startups including Airbnb, Stripe, Reddit, and DoorDash. Co-founded Loopt, an early location-based social networking app.",
+    "city": "San Francisco",
+    "state": "California",
+    "country_full_name": "United States",
+    "occupation": "Chief Executive Officer at OpenAI",
+    "experiences": [
+      {
+        "starts_at": {"day": 1, "month": 12, "year": 2019},
+        "ends_at": null,
+        "company": "OpenAI",
+        "title": "Chief Executive Officer",
+        "description": "Leading OpenAI's mission to ensure artificial general intelligence benefits all of humanity. Launched ChatGPT, GPT-4, and the modern wave of generative AI products.",
+        "location": "San Francisco, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 2, "year": 2014},
+        "ends_at": {"day": 31, "month": 3, "year": 2019},
+        "company": "Y Combinator",
+        "title": "President",
+        "description": "Expanded YC's portfolio, launched the YC Research nonprofit lab, pioneered the SAFE financing instrument, and mentored hundreds of high-growth founders.",
+        "location": "Mountain View, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 6, "year": 2005},
+        "ends_at": {"day": 31, "month": 3, "year": 2012},
+        "company": "Loopt",
+        "title": "Co-Founder and CEO",
+        "description": "Built one of the earliest mobile location-sharing social networks, accepted in YC's inaugural 2005 summer batch. Acquired by Green Dot Corporation for $43.4 million.",
+        "location": "Mountain View, California, United States"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 2003},
+        "ends_at": {"day": 1, "month": 6, "year": 2005},
+        "field_of_study": "Computer Science",
+        "degree_name": "Undergraduate Studies (Dropped out to build Loopt)",
+        "school": "Stanford University",
+        "description": "Studied AI and computer science under Andrew Ng; left in sophomore year upon acceptance to Y Combinator batch 2005."
+      }
+    ],
+    "languages": ["English"],
+    "accomplishment_publications": [
+      {
+        "name": "Moore's Law for Everything",
+        "publisher": "samaltman.com",
+        "published_on": {"day": 16, "month": 3, "year": 2021},
+        "description": "Essay outlining how AI will generate monumental wealth and change socioeconomic governance and taxation."
+      }
+    ],
+    "volunteer_work": [
+      {
+        "cause": "Universal Basic Income Research",
+        "company": "OpenResearch",
+        "title": "Founding Benefactor & Chairman",
+        "description": "Funded comprehensive empirical randomized controlled trials studying the economic impact of unconditional basic income.",
+        "starts_at": {"day": 1, "month": 1, "year": 2016},
+        "ends_at": null
+      }
+    ],
+    "skills": ["Startup Acceleration", "Venture Capital", "Artificial General Intelligence", "Product Strategy", "High-Stakes Negotiations", "Energy Technologies (Nuclear Fusion / Helion)"],
+    "interests": ["Nuclear Fusion & Clean Energy", "Supersonic Aviation", "Longevity Research", "Survivalism & Outdoor Sports"]
+  },
+  "andrej_karpathy": {
+    "public_identifier": "andrejkarpathy",
+    "first_name": "Andrej",
+    "last_name": "Karpathy",
+    "full_name": "Andrej Karpathy",
+    "headline": "Founder at Eureka Labs | Former Director of AI at Tesla | OpenAI Founding Member",
+    "summary": "AI researcher, engineer, and educator passionate about deep neural networks, autonomous agents, and AI-native education. Completed PhD at Stanford under Fei-Fei Li. Founding research scientist at OpenAI, later Senior Director of AI at Tesla leading Autopilot vision and Full Self-Driving. Created widely acclaimed deep learning educational courses (CS231n, Neural Networks: Zero to Hero). Recently founded Eureka Labs to build an AI-native school.",
+    "city": "San Francisco",
+    "state": "California",
+    "country_full_name": "United States",
+    "occupation": "Founder at Eureka Labs",
+    "experiences": [
+      {
+        "starts_at": {"day": 1, "month": 6, "year": 2024},
+        "ends_at": null,
+        "company": "Eureka Labs",
+        "title": "Founder",
+        "description": "Building an AI-native school where human teachers design high-quality courses supported by personalized AI teaching assistants.",
+        "location": "San Francisco, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 2, "year": 2023},
+        "ends_at": {"day": 28, "month": 2, "year": 2024},
+        "company": "OpenAI",
+        "title": "Research Scientist",
+        "description": "Returned to OpenAI working on foundational model training, reasoning architectures, and developer tooling.",
+        "location": "San Francisco, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 6, "year": 2017},
+        "ends_at": {"day": 15, "month": 7, "year": 2022},
+        "company": "Tesla",
+        "title": "Senior Director of AI",
+        "description": "Led the computer vision and neural network team for Tesla Autopilot and Full Self-Driving (FSD). Architected large-scale neural network data collection pipelines (Data Engine) and vision-only occupancy networks.",
+        "location": "Palo Alto, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 12, "year": 2015},
+        "ends_at": {"day": 31, "month": 5, "year": 2017},
+        "company": "OpenAI",
+        "title": "Research Scientist & Founding Member",
+        "description": "Conducted core research in generative models, reinforcement learning, and deep computer vision.",
+        "location": "San Francisco, California, United States"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 2011},
+        "ends_at": {"day": 31, "month": 8, "year": 2016},
+        "field_of_study": "Computer Science (Deep Learning & Vision)",
+        "degree_name": "Doctor of Philosophy (PhD)",
+        "school": "Stanford University",
+        "description": "Advised by Fei-Fei Li. Created and taught the renowned CS231n course: Convolutional Neural Networks for Visual Recognition."
+      },
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 2009},
+        "ends_at": {"day": 30, "month": 6, "year": 2011},
+        "field_of_study": "Computer Science",
+        "degree_name": "Master of Science",
+        "school": "University of British Columbia",
+        "description": "Researched physically simulated figure animations with machine learning advised by Michiel van de Panne."
+      },
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 2005},
+        "ends_at": {"day": 30, "month": 6, "year": 2009},
+        "field_of_study": "Computer Science and Physics",
+        "degree_name": "Bachelor of Science",
+        "school": "University of Toronto",
+        "description": "First introduced to deep learning in Geoffrey Hinton's undergraduate lectures."
+      }
+    ],
+    "languages": ["English", "Slovak", "Czech"],
+    "accomplishment_publications": [
+      {
+        "name": "Deep Visual-Semantic Alignments for Generating Image Descriptions",
+        "publisher": "IEEE CVPR (Best Paper Finalist)",
+        "published_on": {"day": 1, "month": 6, "year": 2015},
+        "description": "Pioneered neural image captioning combining convolutional neural networks with recurrent neural networks."
+      },
+      {
+        "name": "nanoGPT and llama2.c: Minimalist Pedagogical Implementations of Transformers",
+        "publisher": "Open Source (GitHub)",
+        "published_on": {"day": 15, "month": 7, "year": 2023},
+        "description": "Clean, educational pure C and PyTorch repositories teaching transformer training and inference from scratch."
+      }
+    ],
+    "skills": ["PyTorch", "Deep Learning", "Computer Vision", "Transformer Architectures", "Autonomous Driving Systems", "Technical Pedagogy", "C & CUDA"],
+    "interests": ["Physics Simulation", "Sci-Fi Literature", "Rubik's Cube Speedcubing", "Open Source Education"]
+  },
+  "feifei_li": {
+    "public_identifier": "fei-fei-li",
+    "first_name": "Fei-Fei",
+    "last_name": "Li",
+    "full_name": "Dr. Fei-Fei Li",
+    "headline": "Sequoia Capital Professor of Computer Science at Stanford | Co-Director Stanford HAI | Creator of ImageNet",
+    "summary": "Pioneer in artificial intelligence and computer vision. Inaugural Sequoia Capital Professor in the Computer Science Department at Stanford University and Denning Co-Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). Served as Chief Scientist of AI/ML at Google Cloud. Renowned as the inventor of ImageNet, the benchmark dataset that catalyzed modern deep learning. Co-founder of the non-profit AI4ALL.",
+    "city": "Stanford",
+    "state": "California",
+    "country_full_name": "United States",
+    "occupation": "Professor at Stanford University & Co-Director Stanford HAI",
+    "experiences": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 2009},
+        "ends_at": null,
+        "company": "Stanford University",
+        "title": "Professor of Computer Science & Co-Director Stanford HAI",
+        "description": "Leading research in human-centered AI, spatial intelligence, robotics, and embodied AI. Directed the Stanford Artificial Intelligence Lab (SAIL) from 2013 to 2018.",
+        "location": "Stanford, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 1, "year": 2017},
+        "ends_at": {"day": 30, "month": 9, "year": 2018},
+        "company": "Google Cloud",
+        "title": "Vice President & Chief Scientist of AI/ML",
+        "description": "Led enterprise AI strategy, developed AutoML to democratize machine learning for businesses worldwide, and championed AI ethics principles.",
+        "location": "Sunnyvale, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 1, "year": 2007},
+        "ends_at": {"day": 31, "month": 8, "year": 2009},
+        "company": "Princeton University",
+        "title": "Assistant Professor",
+        "description": "Conducted groundbreaking research in visual recognition; launched the ImageNet project.",
+        "location": "Princeton, New Jersey, United States"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 1999},
+        "ends_at": {"day": 30, "month": 6, "year": 2005},
+        "field_of_study": "Electrical Engineering & Computational Neuroscience",
+        "degree_name": "Doctor of Philosophy (PhD)",
+        "school": "California Institute of Technology (Caltech)",
+        "description": "Advised by Pietro Perona and Christof Koch, integrating cognitive psychology with computer vision models."
+      },
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 1995},
+        "ends_at": {"day": 30, "month": 6, "year": 1999},
+        "field_of_study": "Physics",
+        "degree_name": "Bachelor of Arts",
+        "school": "Princeton University",
+        "description": "Graduated with high honors in physics while simultaneously supporting family dry cleaning business."
+      }
+    ],
+    "languages": ["English", "Mandarin Chinese"],
+    "accomplishment_publications": [
+      {
+        "name": "ImageNet: A Large-Scale Hierarchical Image Database",
+        "publisher": "IEEE CVPR 2009",
+        "published_on": {"day": 20, "month": 6, "year": 2009},
+        "description": "Landmark paper introducing over 14 million labelled images that unlocked modern deep learning benchmarking."
+      },
+      {
+        "name": "The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI",
+        "publisher": "Flatiron Books",
+        "published_on": {"day": 7, "month": 11, "year": 2023},
+        "description": "Acclaimed scientific memoir exploring the immigrant journey and the genesis of modern artificial intelligence."
+      }
+    ],
+    "volunteer_work": [
+      {
+        "cause": "Diversity and Inclusion in Tech",
+        "company": "AI4ALL",
+        "title": "Co-Founder and Chairperson of the Board",
+        "description": "Nonprofit dedicated to increasing diversity and inclusion in AI education for historically underrepresented high school students.",
+        "starts_at": {"day": 1, "month": 3, "year": 2017},
+        "ends_at": null
+      }
+    ],
+    "skills": ["Computer Vision", "Human-Centered AI", "Spatial Intelligence", "Machine Learning", "Academic Leadership", "Embodied AI"],
+    "interests": ["Tibetan Medicine", "Classical Music", "Philosophy of Mind", "Educational Equity"]
+  },
+  "demis_hassabis": {
+    "public_identifier": "demishassabis",
+    "first_name": "Demis",
+    "last_name": "Hassabis",
+    "full_name": "Sir Demis Hassabis",
+    "headline": "CEO at Google DeepMind | 2024 Nobel Laureate in Chemistry | AI Pioneer",
+    "summary": "Co-founder and CEO of Google DeepMind, combining neuroscience, computer science, and machine learning to solve intelligence and advance scientific discovery. Awarded the 2024 Nobel Prize in Chemistry for breakthroughs in computational protein structure prediction with AlphaFold. Child chess prodigy, veteran video game designer (Theme Park), and Cambridge computer scientist.",
+    "city": "London",
+    "state": "Greater London",
+    "country_full_name": "United Kingdom",
+    "occupation": "Chief Executive Officer at Google DeepMind",
+    "experiences": [
+      {
+        "starts_at": {"day": 1, "month": 11, "year": 2010},
+        "ends_at": null,
+        "company": "Google DeepMind",
+        "title": "Co-Founder and Chief Executive Officer",
+        "description": "Founded DeepMind in 2010 (acquired by Google in 2014). Led landmark AI breakthroughs including AlphaGo (defeating 18-time world champion Lee Sedol in 2016), AlphaZero, MuZero, and AlphaFold. Now spearheading the Gemini multi-modal frontier model program.",
+        "location": "London, United Kingdom"
+      },
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 1998},
+        "ends_at": {"day": 31, "month": 10, "year": 2005},
+        "company": "Elixir Studios",
+        "title": "Founder and CEO",
+        "description": "Founded independent video game development studio with 60+ engineers; created critically acclaimed simulation games Republic: The Revolution and Evil Genius.",
+        "location": "London, United Kingdom"
+      },
+      {
+        "starts_at": {"day": 1, "month": 6, "year": 1994},
+        "ends_at": {"day": 31, "month": 8, "year": 1997},
+        "company": "Bullfrog Productions",
+        "title": "Lead AI Programmer",
+        "description": "Co-designed and coded the simulation AI for millions-selling blockbuster game Theme Park at age 17 alongside legendary designer Peter Molyneux.",
+        "location": "Guildford, Surrey, United Kingdom"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 2005},
+        "ends_at": {"day": 30, "month": 6, "year": 2009},
+        "field_of_study": "Cognitive Neuroscience",
+        "degree_name": "Doctor of Philosophy (PhD)",
+        "school": "University College London (UCL)",
+        "description": "Conducted seminal research on the neural mechanisms of episodic memory and imagination in the human hippocampus. Published breakthrough papers in Nature and PNAS."
+      },
+      {
+        "starts_at": {"day": 1, "month": 10, "year": 1994},
+        "ends_at": {"day": 30, "month": 6, "year": 1997},
+        "field_of_study": "Computer Science Tripos",
+        "degree_name": "Bachelor of Arts (Double First Class Honours)",
+        "school": "Queens' College, University of Cambridge",
+        "description": "Completed double first-class honours in Computer Science at Cambridge at age 20."
+      }
+    ],
+    "languages": ["English", "Greek"],
+    "accomplishment_publications": [
+      {
+        "name": "Highly accurate protein structure prediction with AlphaFold",
+        "publisher": "Nature",
+        "published_on": {"day": 15, "month": 7, "year": 2021},
+        "description": "Solved the 50-year-old grand biological challenge of protein folding, predicting 3D structures for virtually all known proteins; awarded 2024 Nobel Prize in Chemistry."
+      },
+      {
+        "name": "Mastering the game of Go with deep neural networks and tree search",
+        "publisher": "Nature",
+        "published_on": {"day": 28, "month": 1, "year": 2016},
+        "description": "Historic paper introducing AlphaGo, the first computer program to defeat a human professional 9-dan Go player."
+      }
+    ],
+    "skills": ["Artificial General Intelligence", "Computational Biology", "Cognitive Neuroscience", "Reinforcement Learning", "Game Theory & Design", "Scientific Supercomputing"],
+    "interests": ["Chess (Master rating at age 13)", "Board Games (World Mind Sports Champion)", "Protein Biochemistry", "Sci-Fi Film Production"]
+  },
+  "leonkatsnelson": {
+    "public_identifier": "leonkatsnelson",
+    "first_name": "Leon",
+    "last_name": "Katsnelson",
+    "full_name": "Leon Katsnelson",
+    "headline": "CTO | AI & Cloud Architecture | Former IBM Distinguished Engineer",
+    "summary": "Experienced technology executive with over 25 years in software engineering, cloud architecture, and artificial intelligence. Former IBM Distinguished Engineer and CTO of IBM Developer Skills Network. Passionate about developer education, open-source technologies, and building AI-powered tools that democratize access to technology. Led teams building cloud-native applications serving millions of learners worldwide.",
+    "city": "Toronto",
+    "state": "Ontario",
+    "country_full_name": "Canada",
+    "occupation": "Chief Technology Officer at TechEd Solutions",
+    "experiences": [
+      {
+        "starts_at": {"day": 1, "month": 3, "year": 2023},
+        "ends_at": null,
+        "company": "TechEd Solutions",
+        "title": "Chief Technology Officer",
+        "description": "Leading technology strategy and architecture for an AI-powered educational platform. Overseeing a team of 40+ engineers building cloud-native microservices on Kubernetes. Driving adoption of generative AI for personalized learning experiences.",
+        "location": "Toronto, Ontario, Canada"
+      },
+      {
+        "starts_at": {"day": 1, "month": 6, "year": 2015},
+        "ends_at": {"day": 28, "month": 2, "year": 2023},
+        "company": "IBM",
+        "title": "Distinguished Engineer & CTO, Developer Skills Network",
+        "description": "Led the architecture and development of IBM's Developer Skills Network, serving 5 million+ learners globally. Designed and implemented cloud-based lab environments using Kubernetes, Docker, and OpenShift. Pioneered the integration of AI-powered tutoring systems into the learning platform.",
+        "location": "Toronto, Ontario, Canada"
+      },
+      {
+        "starts_at": {"day": 1, "month": 1, "year": 2008},
+        "ends_at": {"day": 31, "month": 5, "year": 2015},
+        "company": "IBM",
+        "title": "Senior Software Engineer",
+        "description": "Developed enterprise middleware solutions for IBM WebSphere. Contributed to open-source projects including Apache Kafka and Eclipse.",
+        "location": "Markham, Ontario, Canada"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 1999},
+        "ends_at": {"day": 30, "month": 6, "year": 2003},
+        "field_of_study": "Computer Science",
+        "degree_name": "Bachelor of Computer Science",
+        "school": "University of Toronto",
+        "description": "Specialized in distributed systems and artificial intelligence. Dean's List recipient."
+      },
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 2010},
+        "ends_at": {"day": 30, "month": 6, "year": 2012},
+        "field_of_study": "Business Administration",
+        "degree_name": "Master of Business Administration",
+        "school": "Rotman School of Management, University of Toronto",
+        "description": "Focused on technology management and entrepreneurship."
+      }
+    ],
+    "languages": ["English", "Russian", "French"],
+    "skills": ["Python", "Kubernetes", "Docker", "Cloud Architecture", "AI/ML", "Microservices", "Java", "Go", "OpenShift"],
+    "interests": ["Open Source", "Developer Education", "Responsible AI", "Cloud Native Computing", "Photography"]
+  },
+  "sample_data_scientist": {
+    "public_identifier": "priya-sharma-ds",
+    "first_name": "Priya",
+    "last_name": "Sharma",
+    "full_name": "Priya Sharma",
+    "headline": "Senior Data Scientist at Google | NLP & Computer Vision | Ex-Amazon",
+    "summary": "Data scientist with 8+ years of experience in machine learning, natural language processing, and computer vision. Currently building large-scale recommendation systems at Google. Previously worked on Alexa's conversational AI at Amazon. Published researcher with 12 papers in top-tier ML conferences. Passionate about making AI explainable and fair.",
+    "city": "Mountain View",
+    "state": "California",
+    "country_full_name": "United States",
+    "occupation": "Senior Data Scientist at Google",
+    "experiences": [
+      {
+        "starts_at": {"day": 1, "month": 8, "year": 2021},
+        "ends_at": null,
+        "company": "Google",
+        "title": "Senior Data Scientist",
+        "description": "Building next-generation recommendation systems for YouTube using deep learning and reinforcement learning. Leading a team of 6 data scientists.",
+        "location": "Mountain View, California, United States"
+      },
+      {
+        "starts_at": {"day": 1, "month": 3, "year": 2018},
+        "ends_at": {"day": 31, "month": 7, "year": 2021},
+        "company": "Amazon",
+        "title": "Data Scientist II, Alexa AI",
+        "description": "Developed NLP models for Alexa's conversational understanding. Built intent classification systems processing 100M+ daily requests.",
+        "location": "Seattle, Washington, United States"
+      }
+    ],
+    "education": [
+      {
+        "starts_at": {"day": 1, "month": 9, "year": 2014},
+        "ends_at": {"day": 30, "month": 5, "year": 2016},
+        "field_of_study": "Computer Science (Machine Learning)",
+        "degree_name": "Master of Science",
+        "school": "Carnegie Mellon University"
+      },
+      {
+        "starts_at": {"day": 1, "month": 7, "year": 2010},
+        "ends_at": {"day": 30, "month": 6, "year": 2014},
+        "field_of_study": "Computer Science and Engineering",
+        "degree_name": "Bachelor of Technology",
+        "school": "Indian Institute of Technology, Delhi"
+      }
+    ],
+    "languages": ["English", "Hindi", "Tamil"],
+    "skills": ["Python", "TensorFlow", "PyTorch", "NLP", "Recommendation Systems", "Deep Learning", "SQL", "Spark"],
+    "interests": ["Explainable AI", "AI Ethics", "Open Source", "Hiking", "Indian Classical Music"]
+  }
+}

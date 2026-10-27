@@ -1,0 +1,26 @@
+# Core LlamaIndex stack
+llama-index-core==0.11.8
+llama-index-readers-web==0.2.2
+
+# Ollama LLM integration
+llama-index-llms-ollama==0.3.1
+ollama<0.4.0
+
+# Local embeddings (no API key needed)
+llama-index-embeddings-huggingface==0.3.1
+
+# UI
+gradio==4.44.1
+jinja2==3.1.4
+fastapi==0.109.2
+starlette==0.36.3
+huggingface_hub==0.19.4
+
+# Use ONE pydantic version
+pydantic==2.9.1
+
+# Sentence transformers for local embeddings
+sentence-transformers
+
+# Vector DB
+chromadb==0.4.24
