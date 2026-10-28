@@ -270,7 +270,16 @@ def create_gradio_interface():
 
 if __name__ == "__main__":
     demo = create_gradio_interface()
-    demo.launch(
-        server_name="127.0.0.1",
-        server_port=5000,
-    )
+    import os
+    port = int(os.getenv("PORT", 5000))
+    print(f"\n🚀 Launching LinkedIn Icebreaker Bot on http://127.0.0.1:{port}...")
+    try:
+        demo.launch(
+            server_name="127.0.0.1",
+            server_port=port,
+        )
+    except OSError:
+        print(f"⚠️ Port {port} in use, picking next available port...")
+        demo.launch(
+            server_name="127.0.0.1",
+        )
