@@ -11,6 +11,8 @@ An intelligent, 100% private conversational bot that generates tailored conversa
 
 Originally built around IBM watsonx.ai and external APIs, this refined edition runs **completely offline and locally** powered by **Ollama**, **HuggingFace sentence-transformers**, and **LlamaIndex** — **zero cloud API keys required**.
 
+> 📄 **Academic / Submission Report:** Check out the complete [Project Report](PROJECT_REPORT.md) covering architecture, methodology, benchmarks, and engineering solutions.
+
 ---
 
 ## 🌟 Key Highlights
